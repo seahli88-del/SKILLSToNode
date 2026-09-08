@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Reusable AI skill pack published from GitHub source.",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seahli88-del/SKILLSToNode.git"
+  },
   "main": "src/index.js",
   "exports": {
     ".": "./src/index.js",
